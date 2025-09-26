@@ -2,13 +2,10 @@
 #include <math.h>
 #include <conio.h>
 #include <locale.h>
-#include <windows.h>
 
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
 	double x, y;
 	double a, b, c;
 	printf("¬ведите x:");
