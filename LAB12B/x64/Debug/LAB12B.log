@@ -1,0 +1,5 @@
+﻿  LAB12B.cpp
+C:\Users\I am\source\repos\LAB12B\LAB12B\completion.txt(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "LAB12B.cpp")
+  
+  LAB12B.vcxproj -> C:\Users\I am\source\repos\LAB12B\x64\Debug\LAB12B.exe

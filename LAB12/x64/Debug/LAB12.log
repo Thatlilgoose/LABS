@@ -1,0 +1,6 @@
+﻿  LAB12.cpp
+C:\Users\I\Desktop\LAB12\LAB12\completion.h(2,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "LAB12.cpp")
+  
+  LINK : не найден или не выполнена сборка C:\Users\I\Desktop\LAB12\x64\Debug\LAB12.exe при последней инкрементной компоновке; выполняется полная компоновка
+  LAB12.vcxproj -> C:\Users\I\Desktop\LAB12\x64\Debug\LAB12.exe
